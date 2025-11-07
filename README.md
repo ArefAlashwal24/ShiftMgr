@@ -12,10 +12,10 @@ Supervisors:
 nurettin şenyer
 ömer durmuş
 
-ShiftMgr Team
-
-YouTube Demo
-Paste your video link here → [INSERT YOUTUBE LINK HERE]
+YouTube Demo:
+https://www.youtube.com/watch?v=CUc6FpRmEAI
+Linkedin Post : 
+https://tinyurl.com/wtw4rrnj
 
 Requirements
 
