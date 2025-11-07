@@ -1,0 +1,15 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  host: 127.0.0.1
+  port: 5432
+  username: postgres
+  password: "postgres1"
+
+development:
+  <<: *default
+  database: shiftmgr_api_development
+
+test:
+  <<: *default
+  database: shiftmgr_api_test

@@ -1,0 +1,23 @@
+# Node / Vite
+shiftmgr_web/node_modules/
+shiftmgr_web/dist/
+shiftmgr_web/.vite/
+shiftmgr_web/.env
+
+# Rails
+shiftmgr_api/log/
+shiftmgr_api/tmp/
+shiftmgr_api/.byebug_history
+shiftmgr_api/storage/
+shiftmgr_api/vendor/bundle/
+shiftmgr_api/node_modules/
+shiftmgr_api/public/assets/
+shiftmgr_api/.env
+shiftmgr_api/config/master.key
+shiftmgr_api/config/credentials.yml.enc
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+*.code-workspace
+.vscode/
