@@ -14,6 +14,8 @@ nurettin şenyer
 
 YouTube Demo:
 https://www.youtube.com/watch?v=CUc6FpRmEAI
+
+
 Linkedin Post : 
 https://tinyurl.com/wtw4rrnj
 
